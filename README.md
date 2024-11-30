@@ -1,4 +1,4 @@
-<h1>Projeto Tesla</h1>
+<h1>Projeto Tesla 🚗</h1>
 <br>
 <br>
 <h2>Este projeto foi realizado com a mentoria do Rodolfo Mori em um evento no canal do YouTube do <a href= https://www.youtube.com/@canaldevclub >DevClub</a></h2>
@@ -12,4 +12,5 @@
 <br>
 <br>
 <img src="https://github.com/NicollasAlmeida14/projeto---tesla/blob/main/img/Projeto-Tesla%20print%201.png?raw=true" width="800px" alt="Imagem-projeto" />
-<img src="https://github.com/NicollasAlmeida14/projeto---tesla/blob/main/img/Projeto-Tesla%20print%202.png?raw=true" width="800px" alt"Imagem-projeto" />
+<img src="https://github.com/NicollasAlmeida14/projeto---tesla/blob/main/img/Projeto-Tesla%20print%202.png?raw=true" width="800px" alt="Imagem-projeto" />
+<img src="https://github.com/NicollasAlmeida14/projeto---tesla/blob/main/img/Projeto-Tesla%20print%203.png?raw=true" width="800px" alt="Imagem-projeto" />
