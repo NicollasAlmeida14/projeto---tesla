@@ -12,3 +12,4 @@
 <br>
 <br>
 <img src="https://github.com/NicollasAlmeida14/projeto---tesla/blob/main/img/Projeto-Tesla%20print%201.png?raw=true" width="800px" alt="Imagem-projeto" />
+<img src="https://github.com/NicollasAlmeida14/projeto---tesla/blob/main/img/Projeto-Tesla%20print%202.png?raw=true" width="800px" alt"Imagem-projeto" />
